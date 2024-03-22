@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "license": "UNLICENSED",
+    "name": "magneto",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "index.mjs",
+    "bin": "./index.mjs",
+    "dependencies": {
+        "@clack/prompts": "^0.7.0",
+        "picocolors": "^1.0.0",
+        "xml2js": "^0.6.2",
+        "yargs": "^17.7.2"
+    }
+}
